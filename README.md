@@ -1,12 +1,34 @@
 # FitGear
 
-FitGear est une application web conçue pour améliorer l'expérience d'achat dans le domaine du sport. Des QR codes sont placés à des endroits stratégiques du magasin afin d'y accéder facilement lorsque les vendeurs sont surchargés.
+## Présentation de l'application
 
-Elle recommande des produits basés sur des réponses données aux questions posées par l'IA (sport pratiqué, niveau dans ce sport, budget, etc.) à l'utilisateur afin de mieux cerner son besoin. L'IA est directement connectée à la base de données du magasin pour connaître en temps réel les caractéristiques des produits et leur quantité en stock.
+Nous avons développé une application innovante qui recommande des produits d'un magasin de sport grâce à une intelligence artificielle. Cette IA agit comme un vendeur virtuel, interagissant avec les utilisateurs pour comprendre leurs besoins et proposer des produits adaptés.
 
-## Expérience Utilisateur
-1. L'utilisateur arrive sur la page d'accueil avec un bouton bien visible pour communiquer avec l'IA.
-2. Il appuie sur le bouton et commence à exprimer ses besoins.
-3. L'IA pose des questions si nécessaire afin de mieux cerner son besoin.
+## Fonctionnement de l'application
 
-Les étapes 2 et 3 sont répétées en boucle jusqu'à ce qu'un produit soit conseillé. Si l'utilisateur n'est pas satisfait du produit conseillé, il peut relancer une conversation afin de préciser son besoin.
+1. **Interaction avec le vendeur virtuel :**
+   - L'utilisateur accède au site et appuie sur le bouton pour s'adresser au vendeur virtuel.
+   - Si nécessaire, le vendeur virtuel pose des questions pour mieux cerner les besoins de l'utilisateur.
+
+2. **Recommandation de produits :**
+   - Une fois que le vendeur virtuel dispose de toutes les informations nécessaires, il recommande un produit adapté aux besoins de l'utilisateur.
+   - Une page s'affiche alors avec une photo du produit, son prix et une courte description.
+
+3. **Possibilité de réajustement :**
+   - Si l'utilisateur n'est pas satisfait du produit proposé, il peut relancer la conversation et préciser davantage ses besoins.
+
+## Accessibilité de l'application
+
+Pour faciliter l'accès à l'application, des QR codes seront placés à des endroits stratégiques dans le magasin. Les utilisateurs pourront ainsi scanner ces QR codes pour accéder directement au site et interagir avec le vendeur virtuel.
+
+## Avantages de l'application
+
+- **Personnalisation :** L'IA interagit directement avec l'utilisateur pour comprendre ses besoins spécifiques.
+- **Accessibilité :** Les QR codes permettent un accès facile et rapide à l'application depuis le magasin.
+- **Efficacité :** L'application propose des produits en stock, garantissant ainsi une recommandation pertinente et réalisable.
+
+## Conclusion
+
+Cette application de recommandation de produits vise à améliorer l'expérience d'achat des clients en magasin, en offrant une assistance personnalisée et instantanée grâce à une intelligence artificielle connectée à la base de données du magasin. 
+
+Découvrez dès maintenant notre application en scannant les QR codes disponibles dans le magasin et laissez-vous guider par notre vendeur virtuel pour trouver le produit qui répondra parfaitement à vos attentes.
