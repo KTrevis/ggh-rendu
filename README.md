@@ -3,6 +3,7 @@
 ## Présentation de l'application
 
 Nous avons développé une application innovante qui recommande des produits d'un magasin de sport grâce à une intelligence artificielle. 
+
 Cette IA agit comme un vendeur virtuel, interagissant avec les utilisateurs pour comprendre leurs besoins et proposer des produits adaptés.
 
 ## Fonctionnement de l'application
