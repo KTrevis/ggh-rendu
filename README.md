@@ -29,6 +29,4 @@ Pour faciliter l'accès à l'application, des QR codes seront placés à des end
 
 ## Conclusion
 
-Cette application de recommandation de produits vise à améliorer l'expérience d'achat des clients en magasin, en offrant une assistance personnalisée et instantanée grâce à une intelligence artificielle connectée à la base de données du magasin. 
-
-Découvrez dès maintenant notre application en scannant les QR codes disponibles dans le magasin et laissez-vous guider par notre vendeur virtuel pour trouver le produit qui répondra parfaitement à vos attentes.
+Cette application de recommandation de produits vise à améliorer l'expérience d'achat des clients en magasin, en offrant une assistance personnalisée et instantanée grâce à une intelligence artificielle connectée à la base de données du magasin.
