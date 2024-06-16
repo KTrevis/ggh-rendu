@@ -35,4 +35,4 @@ Cette application de recommandation de produits vise à améliorer l'expérience
 
 ## Business Lean
 
-![alt text](https://github.com/KTrevis/gottagohack/blob/main/image.jpg?raw=true)
+![alt text](https://github.com/KTrevis/gottagohack/blob/main/business-lean.png?raw=true)
